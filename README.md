@@ -7,6 +7,5 @@ cd repository
 python merge_history_AQI_data.ipynb
 
 ### To get Cleaned AQI Dataset
-```bash
 python preprocess.ipynb
 
