@@ -13,6 +13,8 @@ run preprocess.ipynb
 ```
 
 ### To merge and preprocess AQI & Weather Dataset
+1. Download 2024_01_AQI_Weather_dataset.csv file
+2. 
 ```bash
 run merge_preprocess_AQI_Weather.ipynb
 ```
