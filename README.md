@@ -12,3 +12,8 @@ run merge_history_AQI_data.ipynb
 run preprocess.ipynb
 ```
 
+### To merge and preprocess AQI & Weather Dataset
+```bash
+run merge_preprocess_AQI_Weather.ipynb
+```
+
