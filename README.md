@@ -11,4 +11,7 @@ run merge_history_AQI_data.ipynb
 ```bash
 run preprocess.ipynb
 ```
-
+### To datamining
+```bash
+run FP-growth/FP-growth.ipynb
+```
